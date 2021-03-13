@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">HOTEL MITAD DEL MUNDO</string>
+    <string name="title_activity_principal">principal</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="mInicio">Inicio</string>
+    <string name="mHotel">Hotel</string>
+    <string name="mServicios">Servicios</string>
+    <string name="mGaleria">Galería</string>
+    <string name="mRestaurante">Restaurante</string>
+    <string name="mContactos">Contactos</string>
+    <string name="mReservas">Reservas</string>
+
+</resources>

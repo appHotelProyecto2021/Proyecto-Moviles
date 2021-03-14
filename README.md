@@ -1,2 +1,3 @@
 # Proyecto-Moviles
-Aplicaciones moviles
+Aplicaciones moviles (Observaciones)
+
